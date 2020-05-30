@@ -1,2 +1,2 @@
-# nixie_tube_hd
-HD graphics for Factorio mod "Nixie Tubes"
+# nixie-tubes
+mod for Factorio adding nixie tubes
